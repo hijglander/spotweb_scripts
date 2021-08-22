@@ -5,6 +5,9 @@
 # Latest version: http://dl.dropbox.com/u/5653370/synology.html
 #
 # Version:
+# 2021-08-22:
+# - Adapted log and script dir to accommodate for Linux installations
+#
 # 2011-11-26:
 # - Initial release
 #
