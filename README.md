@@ -12,3 +12,5 @@ Download the scripts to ~/bin (assuming root user so it will be /root/bin) and a
 15      */6     *       *       *       /bin/sh /root/bin/spotweb_cron_upd.sh > /dev/null
 
 Spots will be retrieved every 10 minutes and the spotweb files will be updated every 6 hours 15 minutes past the hour.
+
+Logging will be available in /var/log/spotweb/
