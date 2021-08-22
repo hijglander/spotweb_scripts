@@ -8,6 +8,9 @@
 #   Mar2zz -                http://mar2zz.tweakblogs.net/blog/6724/spotweb-als-provider.html
 #
 # Version:
+# 2021-08-22:
+# - Adapted spotweb dir to accommodate for Linux installations with lighttpd
+#
 # 2011-11-21:
 # - Added some extra output to the script
 #
